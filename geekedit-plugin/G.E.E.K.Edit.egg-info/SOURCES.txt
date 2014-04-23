@@ -1,0 +1,8 @@
+setup.py
+G.E.E.K.Edit.egg-info/PKG-INFO
+G.E.E.K.Edit.egg-info/SOURCES.txt
+G.E.E.K.Edit.egg-info/dependency_links.txt
+G.E.E.K.Edit.egg-info/entry_points.txt
+G.E.E.K.Edit.egg-info/top_level.txt
+geekedit/__init__.py
+geekedit/geekedit.py
