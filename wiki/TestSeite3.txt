@@ -5,3 +5,5 @@ Testsseite 3 zum Testen des post-commit Scripts.
 Zeile 2.
 
 Zeile 3.
+
+Zeile 4.
