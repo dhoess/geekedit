@@ -1,5 +1,0 @@
-= TestSeite7 =
-
-TestSeite 7
-
-Test
