@@ -2,7 +2,6 @@
 
 Testseite zur Überprüfung ob der entsprechende Inhalt korrekt angezeigt wird.
 
-Zeile 2.
 
 
 
