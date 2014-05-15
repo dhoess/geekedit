@@ -1,5 +1,3 @@
 = TestSeite5 =
 
 TestSeite5
-
-Zeile lokal
