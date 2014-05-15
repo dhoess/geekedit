@@ -5,5 +5,3 @@ TestSeite3
 Zeile Online
 
 Zeile Online
-
-Zeile lokal
