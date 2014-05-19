@@ -1,8 +1,0 @@
-= TestSeite6 =
-
-Test
-
-Hallo
-Buh
-
-Ole
