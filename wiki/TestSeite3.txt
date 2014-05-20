@@ -1,3 +1,0 @@
-= TestSeite3 =
-
-TestSeite 3 ist toll
