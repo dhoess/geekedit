@@ -10,7 +10,7 @@ Alle Wikiseiten werden als Textdateien in einem lokalen und externen Repository
 gespeichert und stehen allen Projektmitgliedern zur Verfügung.
 
 Das Plugin ist verfügbar unter [http://http://trac-hacks.org/ Trac Hacks: G.E.E.K.Edit].
-"[wiki:GKStartingGuide How to G.E.E.K.Edit] zeigt eine kurze Einleitung in die Benutzung des Plugins.
+[wiki:GKStartingGuide How to G.E.E.K.Edit] zeigt eine kurze Einleitung in die Benutzung des Plugins.
 
 == Wiki-Index ==
 
