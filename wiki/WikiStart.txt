@@ -24,3 +24,4 @@ Alle Wikiseiten sind verfÃ¼gbar unter TitleIndex.
 * UcWikiEdit
 * UcWikiDelete
 * UcWikiVersionDelete
+* UcWikiRename
