@@ -11,7 +11,8 @@ gespeichert und stehen allen Projektmitgliedern zur Verfügung.
 
 Das Plugin ist verfügbar unter [http://http://trac-hacks.org/ Trac Hacks: G.E.E.K.Edit].[[BR]]
 
-[wiki:GKStartingGuide How to G.E.E.K.Edit] zeigt eine kurze Einleitung in die Benutzung des Plugins.
+[wiki:GKStartingGuide How to G.E.E.K.Edit] zeigt eine kurze Einleitung in die Benutzung des Plugins.[[BR]]
+
 
 == Wiki-Index ==
 
