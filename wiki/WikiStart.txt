@@ -1,0 +1,17 @@
+= Willkommen zu G.E.E.K.Edit =
+
+G.E.E.K.Edit ist ein Trac Plugin zur lokalen Verwaltung von Wikiseiten und
+Projektdokumentationen.
+
+Dieses Plugin ermöglicht das Erstellen, Bearbeiten und Löschen von Wikiseiten
+in einem lokalen Repository, in Zusammenarbeit mit Git.
+
+Alle Wikiseiten werden als Textdateien in einem lokalen und externen Repository
+gespeichert und stehen allen Projektmitgliedern zur Verfügung.
+
+Das Plugin ist verfügbar unter [http://http://trac-hacks.org/ Trac Hacks: G.E.E.K.Edit].
+[wiki:GKStartingGuide How to G.E.E.K.Edit] zeigt eine kurze Einleitung in die Benutzung des Plugins.
+
+== Wiki-Index ==
+
+Alle Wikiseiten sind verfügbar unter TitleIndex.
