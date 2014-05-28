@@ -1,1 +1,0 @@
-Datei zum Testen der Verlinkung von Git und Trac.
