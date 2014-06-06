@@ -13,7 +13,6 @@ Das Plugin ist verfügbar unter [http://http://trac-hacks.org/ Trac Hacks: G.E.E
 
 [wiki:GKStartingGuide How to G.E.E.K.Edit] zeigt eine kurze Einleitung in die Benutzung des Plugins.[[BR]]
 
-
 == Wiki-Index ==
 
 Alle Wikiseiten sind verfügbar unter TitleIndex.
