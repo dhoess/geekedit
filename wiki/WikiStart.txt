@@ -17,3 +17,11 @@ Das Plugin ist verfügbar unter [http://http://trac-hacks.org/ Trac Hacks: G.E.E
 == Wiki-Index ==
 
 Alle Wikiseiten sind verfügbar unter TitleIndex.
+
+
+== Use Cases ==
+
+* UcWikiCreate
+* UcWikiEdit
+* UcWikiDelete
+* UcWikiVersionDelete
