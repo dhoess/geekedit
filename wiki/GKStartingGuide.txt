@@ -21,4 +21,3 @@ G.E.E.K.Edit aktualisiert die entsprechenden Textdateien der Wikiseiten bei folg
 * Loeschen der letzten Version einer Wikiseite
 * Loeschen einer Wikiseite
 [[BR]][[BR]]
-

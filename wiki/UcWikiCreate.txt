@@ -1,1 +1,1 @@
-== UcWikiCreate ==
+= UcWikiCreate =

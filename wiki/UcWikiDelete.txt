@@ -1,2 +1,1 @@
-== UcWikiDelete ==
-
+= UcWikiDelete =
