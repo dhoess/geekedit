@@ -1,1 +1,3 @@
 = UcWikiCreate =
+
+UcWikiCreate lokal
