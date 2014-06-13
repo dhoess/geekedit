@@ -1,27 +1,39 @@
-= Willkommen zu G.E.E.K.Edit =
+= Welcome to Trac 1.0.1 =
 
-G.E.E.K.Edit ist ein Trac Plugin zur lokalen Verwaltung von Wikiseiten und
-Projektdokumentationen.
+Trac is a '''minimalistic''' approach to '''web-based''' management of
+'''software projects'''. Its goal is to simplify effective tracking and handling of software issues, enhancements and overall progress.
 
-Dieses Plugin ermöglicht das Erstellen, Bearbeiten und Löschen von Wikiseiten
-in einem lokalen Repository, in Zusammenarbeit mit Git.
+All aspects of Trac have been designed with the single goal to 
+'''help developers write great software''' while '''staying out of the way'''
+and imposing as little as possible on a team's established process and
+culture.
 
-Alle Wikiseiten werden als Textdateien in einem lokalen und externen Repository
-gespeichert und stehen allen Projektmitgliedern zur Verfügung.
+As all Wiki pages, this page is editable, this means that you can
+modify the contents of this page simply by using your
+web-browser. Simply click on the "Edit this page" link at the bottom
+of the page. WikiFormatting will give you a detailed description of
+available Wiki formatting commands.
 
-Das Plugin ist verfügbar unter [http://http://trac-hacks.org/ Trac Hacks: G.E.E.K.Edit].[[BR]]
+"[wiki:TracAdmin trac-admin] ''yourenvdir'' initenv" created
+a new Trac environment, containing a default set of wiki pages and some sample
+data. This newly created environment also contains 
+[wiki:TracGuide documentation] to help you get started with your project.
 
-[wiki:GKStartingGuide How to G.E.E.K.Edit] zeigt eine kurze Einleitung in die Benutzung des Plugins.[[BR]]
+You can use [wiki:TracAdmin trac-admin] to configure
+[http://trac.edgewall.org/ Trac] to better fit your project, especially in
+regard to ''components'', ''versions'' and ''milestones''. 
 
 
-== Wiki-Index ==
+TracGuide is a good place to start.
 
-Alle Wikiseiten sind verfügbar unter TitleIndex.
+Enjoy! [[BR]]
+''The Trac Team''
 
+== Starting Points ==
 
-== Use Cases ==
+ * TracGuide --  Built-in Documentation
+ * [http://trac.edgewall.org/ The Trac project] -- Trac Open Source Project
+ * [http://trac.edgewall.org/wiki/TracFaq Trac FAQ] -- Frequently Asked Questions
+ * TracSupport --  Trac Support
 
-* UcWikiCreate
-* UcWikiEdit
-* UcWikiDelete
-* UcWikiVersionDelete
+For a complete list of local wiki pages, see TitleIndex.
